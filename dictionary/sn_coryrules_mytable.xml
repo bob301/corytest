@@ -6,7 +6,6 @@
                 <element inactive_on_update="false" label="Bar" sequence="2" value="bar"/>
                 <element inactive_on_update="false" label="Baz" sequence="3" value="baz"/>
                 <element inactive_on_update="false" label="Fizz" sequence="4" value="fizz"/>
-                <element inactive_on_update="false" label="Buzz" sequence="5" value="buzz"/>
             </choice>
         </element>
         <element display="true" label="String" max_length="100" name="string" type="string"/>
