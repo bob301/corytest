@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyTable" max_length="40" name="sn_coryrules_mytable" type="collection">
+        <element choice="1" label="Choice" max_length="100" name="choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Foo" sequence="1" value="foo"/>
+                <element inactive_on_update="false" label="Bar" sequence="2" value="bar"/>
+                <element inactive_on_update="false" label="Baz" sequence="3" value="baz"/>
+                <element inactive_on_update="false" label="Fizz" sequence="4" value="fizz"/>
+                <element inactive_on_update="false" label="Buzz" sequence="5" value="buzz"/>
+            </choice>
+        </element>
+        <element display="true" label="String" max_length="100" name="string" type="string"/>
+    </element>
+</database>
