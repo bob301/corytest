@@ -57,25 +57,6 @@
             <sys_updated_on>2019-04-15 17:22:57</sys_updated_on>
             <value>baz</value>
         </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>choice</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Fizz</label>
-            <language>en</language>
-            <name>sn_coryrules_mytable</name>
-            <sequence>4</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-04-15 17:23:06</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c099c7cab3303300ceda85d516a8dc32</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-04-15 17:23:10</sys_updated_on>
-            <value>fizz</value>
-        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>choice</element>
             <name>sn_coryrules_mytable</name>
