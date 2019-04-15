@@ -4,7 +4,6 @@
             <choice>
                 <element inactive_on_update="false" label="Foo" sequence="1" value="foo"/>
                 <element inactive_on_update="false" label="Bar" sequence="2" value="bar"/>
-                <element inactive_on_update="false" label="Baz" sequence="3" value="baz"/>
             </choice>
         </element>
         <element display="true" label="String" max_length="100" name="string" type="string"/>
